@@ -9,7 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - asdfasfadsf.qmd
+      - anomaly_detection.ipynb
+      - classification.ipynb
+      - clustering.ipynb
+      - probability_theory_and_random_variables.ipynb
+      - regression.ipynb
 
 format:
   html:
