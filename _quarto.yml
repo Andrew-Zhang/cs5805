@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - ./docs/nomaly_detection.html
+      - asdfasfadsf.qmd
 
 format:
   html:
