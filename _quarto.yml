@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      -href: anomaly_detection.ipynb
+        text: Anomaly Detection
 
 format:
   html:
