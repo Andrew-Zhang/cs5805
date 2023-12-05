@@ -1,0 +1,23 @@
+{
+  "anomaly_detection.ipynb": {
+    "anomaly_detection.html": "5a938f47"
+  },
+  "probability_theory_and_random_variables.ipynb": {
+    "probability_theory_and_random_variables.html": "e3ecd599"
+  },
+  "regression.ipynb": {
+    "regression.html": "76a124f3"
+  },
+  "index.qmd": {
+    "index.html": "2029108b"
+  },
+  "about.qmd": {
+    "about.html": "759a7854"
+  },
+  "classification.ipynb": {
+    "classification.html": "c19dc069"
+  },
+  "clustering.ipynb": {
+    "clustering.html": "2bffb678"
+  }
+}
